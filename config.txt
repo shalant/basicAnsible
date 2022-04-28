@@ -1,0 +1,4 @@
+# Read more about SSH config files: https://linux.die.net/man/5/ssh_config
+Host 18.234.34.29
+    User ec2-user
+    IdentityFile "C:\Users\digdr\Downloads\dougva.pem"
